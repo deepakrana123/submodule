@@ -1,0 +1,10 @@
+git remote add origin https://github.com/deepakrana123/demomodule.git
+git push -u origin maingit remote add origin https://github.com/deepakrana123/demomodule.git
+git push -u origin maingit remote add origin https://github.com/deepakrana123/demomodule.git
+git push -u origin maingit remote add origin https://github.com/deepakrana123/demomodule.git
+git push -u origin maingit remote add origin https://github.com/deepakrana123/demomodule.git
+git push -u origin maingit remote add origin https://github.com/deepakrana123/demomodule.git
+git push -u origin maingit remote add origin https://github.com/deepakrana123/demomodule.git
+git push -u origin maingit remote add origin https://github.com/deepakrana123/demomodule.git
+git push -u origin maingit remote add origin https://github.com/deepakrana123/demomodule.git
+git push -u origin main
